@@ -3,14 +3,10 @@ AIM:To develop a reliable system that exploits the dependency of production of c
 
 
 Hardwares Needed:
-1.NodeMCU(ESP8266-12E)
-2.Grove MOisture Sensor
-3.DHT11 Temperature& Humidity Sensor
+NodeMCU(ESP8266-12E),Grove MOisture Sensor,DHT11 Temperature& Humidity Sensor
 
 Softwares Required:
-1.MATLAB
-2.ARDUINO IDE
-3.XAMPP v3.2.2 ( Cross Platform-Apache, MySQL, Perl, .php) Server.(http://filehippo.com/download_xampp/)
-4.Sublime Text editor
-5.MQTT DASHBOARD in Mobile.
+MATLAB,ARDUINO IDE,XAMPP v3.2.2 ( Cross Platform-Apache, MySQL, Perl, .php) Server.(http://filehippo.com/download_xampp/)
+,Sublime Text editor
+,MQTT DASHBOARD in Mobile.
 
